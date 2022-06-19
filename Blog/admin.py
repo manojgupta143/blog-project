@@ -1,5 +1,4 @@
 from django.contrib import admin
-from django.contrib.admin.filters import ListFilter
 from Blog.models import Post
 from Blog.models import Comment
 
